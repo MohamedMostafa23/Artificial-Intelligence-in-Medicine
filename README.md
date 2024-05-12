@@ -6,6 +6,12 @@ Welcome to the repository for the "Artificial Intelligence in Medicine" course a
 
 This repository contains coding assignments for the Artificial Intelligence in Medicine course offered at TUM. The course covers various topics in the intersection of artificial intelligence and medicine, including machine learning techniques, medical image analysis, clinical decision support systems, and more.
 
+## Contributor
+
+Mohammed Elbushnaq
+Muhammed Elmasry
+Evangelos Fragkiadakis
+Nada Elsherbeny 
 
 ## Resources
 
