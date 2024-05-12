@@ -1,3 +1,3 @@
-Trustworthy AI: Federated and privacy-preserving ML
+# Trustworthy AI: Federated and privacy-preserving ML
 
 
