@@ -8,10 +8,10 @@ This repository contains coding assignments for the Artificial Intelligence in M
 
 ## Contributor
 
-Mohammed Elbushnaq
-Muhammed Elmasry
-Evangelos Fragkiadakis
-Nada Elsherbeny 
+- Mohammed Elbushnaq
+- Muhammed Elmasry
+- Evangelos Fragkiadakis
+- Nada Elsherbeny 
 
 ## Resources
 
