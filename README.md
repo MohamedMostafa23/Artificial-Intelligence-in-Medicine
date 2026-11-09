@@ -1,5 +1,9 @@
 # Artificial Intelligence in Medicine I & II
 
+**Start here:** [Medical image segmentation](Segmentation/AI-in-Med-EX2-segmentation_main.ipynb), [CAM-based explanations](Trustworthy%20ML/task%201%20-%20AI-in-Med-EX4-Report_Trustworthy_AI_CAM_based_explanations.ipynb), and the [privacy and security report](Trustworthy%20AI%20-%20Privacy%2C%20security%20and%20attacks/AI-in-Med-EX5-Report.pdf).
+
+The collection includes notebooks, reports, and an original MRI reconstruction exercise template. The template still has implementation prompts and is included as course reference material.
+
 Practical assignments, Jupyter notebooks, and reports for the **Artificial Intelligence in Medicine** and **Artificial Intelligence in Medicine II** courses at the **Technical University of Munich (TUM)**.
 
 The material covers machine learning for medical imaging and clinical text, from classification, segmentation, and transfer learning to trustworthy AI, generative models, MRI reconstruction, and survival analysis. This repository brings together the original course collection and the material from [Artificial Intelligence in Medicine II](https://github.com/MohamedMostafa23/Artificial-Intelligence-in-Medicine-II).
@@ -20,7 +24,7 @@ The material covers machine learning for medical imaging and clinical text, from
 | --- | --- | --- |
 | [Natural Language Processing](NLP/) | Clinical text preprocessing, vocabulary construction, text classification with pretrained language models, and text generation. | [Notebook](NLP/go56cuh_ge94naz_ge83muj_ge83cak_AIMed2_NLP.ipynb) |
 | [Deep Generative Models](Deep%20Generative%20Models/) | Brain MRI analysis with variational autoencoders (VAEs), generative adversarial networks (GANs), and diffusion models. | [Notebook](Deep%20Generative%20Models/go56cuh_ge94naz_ge83muj_ge83cak_AIMed2_GEN.ipynb), [PDF report](Deep%20Generative%20Models/go56cuh_ge94naz_ge83muj_ge83cak_AIMed2_GEN.pdf) |
-| [Inverse Problems](Inverse%20Problems/) | MRI reconstruction from k-space, coil compression and sensitivity maps, undersampling, and regularized reconstruction. | [Notebook](Inverse%20Problems/Exercise_original_%281%29.ipynb) |
+| [Inverse Problems](Inverse%20Problems/) | Course exercise template for reconstructing MRI from k-space, covering coil combination, undersampling, and regularization. | [Exercise template](Inverse%20Problems/Exercise_original_%281%29.ipynb) |
 | [Survival Analysis](Survival%20Analysis/) | Survival analysis assignment. | [PDF report](Survival%20Analysis/ge83muj_ge83cak_go56cuh_ge94naz_survival_analysis_assignment.pdf) |
 
 ## Working with the notebooks
